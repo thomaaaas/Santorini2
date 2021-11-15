@@ -7,7 +7,7 @@ public class Jeu {
         System.out.println(camp.concat(" c'est à vous, qu'elle pièce vous voulez déplacer ? "));
         return input.nextLine();
     }
-
+    // test
     public static String getCoordonnéeDeplacement() {
         System.out.println("Où voulez vous déplacer votre pièce ?");
         return input.nextLine();
